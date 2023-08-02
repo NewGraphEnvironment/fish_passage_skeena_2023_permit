@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.5.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="54.018319860940686" minlon="-127.815475132745931" maxlat="55.511215445812134" maxlon="-126.632239585699821"/></metadata>              
+<wpt lat="54.236136607527051" lon="-126.632239585699821">
+  <name>197640</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.970868569825583" lon="-127.285844719769543">
+  <name>58067</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.67520600751692" lon="-127.020432062613793">
+  <name>58159</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.659539996639488" lon="-127.022770246754703">
+  <name>124500</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.572225088615312" lon="-126.808973544137771">
+  <name>123377</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.442262052400537" lon="-126.757149362878749">
+  <name>195943</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="55.314274050475646" lon="-127.694177681179298">
+  <name>198217</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="55.511215445812134" lon="-127.655631337972736">
+  <name>198225</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.135837620111744" lon="-127.111667968472872">
+  <name>198064</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.360598679209382" lon="-126.792128730090411">
+  <name>197962</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.117050661034689" lon="-126.780233285310857">
+  <name>197378</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.018319860940686" lon="-127.376067556933208">
+  <name>198008</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.157190553876191" lon="-126.800514023051392">
+  <name>197365</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.182029530047217" lon="-126.839973118346293">
+  <name>197379</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.146763019406137" lon="-126.796746753937057">
+  <name>198060</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.228321566478627" lon="-127.245180529036844">
+  <name>197949</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.793054231183994" lon="-127.600518056529154">
+  <name>8547</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.809041192612696" lon="-127.815475132745931">
+  <name>8454</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.805119135685253" lon="-127.71283962693488">
+  <name>8530</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.789900918809394" lon="-127.566722151850186">
+  <name>8543</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+</gpx>
